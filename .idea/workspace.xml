@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06d7731a-5178-4c81-911a-257b754620da" name="Changes" comment="senai">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comunidadesenai/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/comunidadesenai/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comunidadesenai/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/comunidadesenai/routes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comunidadesenai/templates/criarpost.html" beforeDir="false" afterPath="$PROJECT_DIR$/comunidadesenai/templates/criarpost.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comunidadesenai/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/comunidadesenai/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/comunidadesenai/templates/usuarios.html" beforeDir="false" afterPath="$PROJECT_DIR$/comunidadesenai/templates/usuarios.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instance/community.db" beforeDir="false" afterPath="$PROJECT_DIR$/instance/community.db" afterDir="false" />
-    </list>
+    <list default="true" id="06d7731a-5178-4c81-911a-257b754620da" name="Changes" comment="senai" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700798275777</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="senai">
+      <option name="closed" value="true" />
+      <created>1700944515371</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700944515371</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
