@@ -19,6 +19,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -258,6 +271,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="senai" />
-    <option name="LAST_COMMIT_MESSAGE" value="senai" />
+    <MESSAGE value="IntranetSENAI" />
+    <option name="LAST_COMMIT_MESSAGE" value="IntranetSENAI" />
   </component>
 </project>
